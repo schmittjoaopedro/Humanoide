@@ -11,7 +11,7 @@ Servo s35;
 Servo s36;
 Servo s37;
 
-int delayTime = 80;
+int delayTime = 40;
 int executable = 1;
 int fixCount = 50;
 boolean activeLog = false;
